@@ -168,7 +168,7 @@ const Product = () => {
                   <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
                   <div className="relative h-48 w-full">
                       <Image
-                        src="/card/doppio.avif"
+                        src="/card/espresso-doppio.jpg"
                         alt="blog"
                         layout="fill"
                         objectFit="cover"
